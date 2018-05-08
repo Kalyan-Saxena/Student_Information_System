@@ -1,0 +1,62 @@
+body{
+background-color: #eceeef;
+  margin: 0;
+  line-height: 1.6em;
+}
+
+.carousel-inner{
+  border-radius: 10px;
+  box-shadow:10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.jumbotron{
+  margin-bottom: 0;
+}
+
+.card h4,.card p{
+  padding: 10px;
+}
+
+div .card{
+  float: left;
+  margin-right:8%;
+
+}
+
+
+
+
+
+/*
+<div class="container">
+    <nav class="navbar">
+
+
+      <ul class="nav">
+        <div class="navbar-header">
+          <a href="index.php" class="navbar-brand">Library Management System</a>
+        </div>
+          <li class="nav-item" style="margin-right:10px;">
+            <a class="nav-link btn-info" href="index.php">Home</a>
+          </li>
+          <li class="nav-item" style="margin-right:10px;">
+            <a class="nav-link btn-info " href="#cont1">About Project</a>
+          </li>
+          <li class="nav-item" style="margin-right:10px;">
+            <a class="nav-link btn-info " href="#abt">About Developers</a>
+          </li>
+          <li class="nav-item" style="margin-right:10px;">
+            <a class="nav-link btn-info " href="log.php">User Login</a>
+          </li>
+          <li class="nav-item" style="margin-right:10px;">
+            <a class="nav-link btn-info" href="../librarian/log.php">Admin Login</a>
+          </li>
+
+    </ul>
+
+
+    </nav>
+</div>
+
+
+*/
